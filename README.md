@@ -20,7 +20,7 @@
 Связаться со мной
 <div>
   <a href='https://t.me/artemdeniso'>
-    <img src='https://www.flaticon.com/ru/free-icon/telegram_2111646' width='40' height='40'>
+    ![image](https://github.com/Artems549/Artems549/assets/115105570/0ea9066a-57f1-4599-8268-a3b2b8c7c615)
   </a>
   
 </div>
