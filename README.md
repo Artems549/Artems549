@@ -7,6 +7,6 @@
 --
 
 Мой стек:
-<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40" style="max-width: 100%;">
+
 
 Связаться со мной
