@@ -18,3 +18,9 @@
 
 
 Связаться со мной
+<div>
+  <a href='https://t.me/artemdeniso'>
+    <img src='https://www.flaticon.com/ru/free-icon/telegram_2111646' width='40' height='40'>
+  </a>
+  
+</div>
