@@ -7,7 +7,7 @@
 
 ---
 
-Мой стек:
+### Мой стек:
 <div>
   <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40" style="max-width: 100%;">
@@ -18,10 +18,10 @@
 
 ---
 
-Связаться со мной
+### Связаться со мной
 <div>
   <a href='https://t.me/artemdeniso'><img src='https://img.shields.io/badge/Telegram-blue?style=for-the-badge'></a>
-  <a href='sfmillingg@gmail.com'><img src='https://img.shields.io/badge/Gmail-red?style=for-the-badge'></a>
+  <a href='mailto:sfmillingg@gmail.com'><img src='https://img.shields.io/badge/Gmail-red?style=for-the-badge'></a>
 </div>
 
 
