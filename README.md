@@ -16,11 +16,12 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40" style="max-width: 100%;">
 </div>
 
+---
 
 Связаться со мной
 <div>
-  <a href='https://t.me/artemdeniso'>
-    ![image](https://github.com/Artems549/Artems549/assets/115105570/0ea9066a-57f1-4599-8268-a3b2b8c7c615)
-  </a>
-  
+  <a href='https://t.me/artemdeniso'><img src='https://img.shields.io/badge/Telegram-blue?style=for-the-badge'></a>
+  <a href='sfmillingg@gmail.com'><img src='https://img.shields.io/badge/Gmail-red?style=for-the-badge'></a>
 </div>
+
+
