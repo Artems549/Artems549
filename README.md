@@ -32,7 +32,7 @@ https://artems549.github.io/shelter/
 ### Связаться со мной
 <div>
   <a href='https://t.me/artemdeniso'><img src='https://img.shields.io/badge/Telegram-blue?style=for-the-badge'></a>
-  <a href='mailto:sfmillingg@gmail.com'><img src='https://img.shields.io/badge/Gmail-red?style=for-the-badge'></a>
+  <a href='mailto:sfmillingg@gmail.com'><img src='https://img.shields.io/badge/sfmillingg@gmail.com-red?style=for-the-badge'></a>
 </div>
 
 
