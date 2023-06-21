@@ -7,7 +7,7 @@
 
 ---
 
-### Мой стек:
+### Мой стек
 <div>
   <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40" style="max-width: 100%;">
@@ -15,6 +15,17 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40" style="max-width: 100%;">
 </div>
+
+---
+
+### Мои работы 
+
+##### Devaidev 
+https://artems549.github.io/devaidev/
+##### Plants 
+https://artems549.github.io/plants/
+##### Shelter 
+https://artems549.github.io/shelter/
 
 ---
 
