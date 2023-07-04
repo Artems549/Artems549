@@ -22,10 +22,11 @@
 
 ##### Devaidev 
 https://artems549.github.io/devaidev/
-##### Plants 
-https://artems549.github.io/plants/
 ##### Shelter 
 https://artems549.github.io/shelter/
+##### Plants 
+https://artems549.github.io/plants/
+
 
 ---
 
